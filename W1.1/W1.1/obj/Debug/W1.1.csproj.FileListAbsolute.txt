@@ -1,0 +1,7 @@
+C:\Users\charles.sharpe\OneDrive - Global Graphics PLC\Documents\CS\CRC\W1.1\W1.1\bin\Debug\W1.1.exe.config
+C:\Users\charles.sharpe\OneDrive - Global Graphics PLC\Documents\CS\CRC\W1.1\W1.1\bin\Debug\W1.1.exe
+C:\Users\charles.sharpe\OneDrive - Global Graphics PLC\Documents\CS\CRC\W1.1\W1.1\bin\Debug\W1.1.pdb
+C:\Users\charles.sharpe\OneDrive - Global Graphics PLC\Documents\CS\CRC\W1.1\W1.1\obj\Debug\W1.1.csprojAssemblyReference.cache
+C:\Users\charles.sharpe\OneDrive - Global Graphics PLC\Documents\CS\CRC\W1.1\W1.1\obj\Debug\W1.1.csproj.CoreCompileInputs.cache
+C:\Users\charles.sharpe\OneDrive - Global Graphics PLC\Documents\CS\CRC\W1.1\W1.1\obj\Debug\W1.1.exe
+C:\Users\charles.sharpe\OneDrive - Global Graphics PLC\Documents\CS\CRC\W1.1\W1.1\obj\Debug\W1.1.pdb
