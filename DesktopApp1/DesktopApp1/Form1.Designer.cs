@@ -1,4 +1,4 @@
-namespace DesktopApp1
+namespace PictureViewer
 {
     partial class Form1
     {
