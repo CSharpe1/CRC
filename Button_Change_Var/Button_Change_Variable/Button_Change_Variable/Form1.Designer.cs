@@ -46,7 +46,7 @@ namespace Button_Change_Variable
             // 
             this.label1.AutoSize = true;
             this.label1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.label1.Location = new System.Drawing.Point(135, 24);
+            this.label1.Location = new System.Drawing.Point(117, 19);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(37, 15);
             this.label1.TabIndex = 4;
